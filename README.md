@@ -10,7 +10,7 @@
     
     About Media Kudo: 
     - Media Kudo is an imaginary business that i use for exercising myself, its helping me a lot (ex: social media, article, etc...). 
-    - i'm planing to do a showcase website and a e-shop. 
+    - i'm planing to do a showcase website and an e-shop. 
     - Media Kudo's instagram : https://www.instagram.com/mediakudo/
     
     
